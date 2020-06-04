@@ -35,7 +35,7 @@
 // Note 1: You do not actually want to delete things from the original array. You
 // should copy it first. To copy an array, use the following code:
 //
-// var arrayCopy = array.slice(0);
+// let arrayCopy = array.slice(0);
 //
 // Think about why this works.
 //
